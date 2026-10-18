@@ -6,7 +6,7 @@
 
 ## 🏗️ Infrastructure
 ┌─────────────────────────────────────────┐
-│         oso-spark-001 (Primary)         │
+│         Server-1 (Primary)         │
 │         NVIDIA DGX Spark                │
 │         120GB GPU Memory                │
 │                                         │
@@ -22,7 +22,7 @@
 │  └───────────────────────────────────┘  │
 └─────────────────────────────────────────┘
 ┌─────────────────────────────────────────┐
-│         oso-spark-002 (Secondary)       │
+│         Server-2 (Secondary)       │
 │         NVIDIA DGX Spark                │
 │         120GB GPU Memory                │
 │         Same Stack — Load Distribution  │
